@@ -20,6 +20,7 @@
 		D25E4AFF203E832600EB263B /* UIViewExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = D25E4AFE203E832600EB263B /* UIViewExt.swift */; };
 		D25E4B01203E867800EB263B /* UIButtonExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = D25E4B00203E867800EB263B /* UIButtonExt.swift */; };
 		D25E4B03203E913C00EB263B /* KeyboardLayoutConstraint.swift in Sources */ = {isa = PBXBuildFile; fileRef = D25E4B02203E913C00EB263B /* KeyboardLayoutConstraint.swift */; };
+		D25E4B05203E971600EB263B /* FinishGoalVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D25E4B04203E971600EB263B /* FinishGoalVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		D25E4AFE203E832600EB263B /* UIViewExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewExt.swift; sourceTree = "<group>"; };
 		D25E4B00203E867800EB263B /* UIButtonExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButtonExt.swift; sourceTree = "<group>"; };
 		D25E4B02203E913C00EB263B /* KeyboardLayoutConstraint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyboardLayoutConstraint.swift; sourceTree = "<group>"; };
+		D25E4B04203E971600EB263B /* FinishGoalVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinishGoalVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 			children = (
 				D234EB67203D2F41004DEA85 /* GoalVC.swift */,
 				D25E4AF9203E7C0D00EB263B /* CreateGoalVC.swift */,
+				D25E4B04203E971600EB263B /* FinishGoalVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -197,6 +200,7 @@
 				D234EB82203D5DBE004DEA85 /* GoalType.swift in Sources */,
 				D25E4B03203E913C00EB263B /* KeyboardLayoutConstraint.swift in Sources */,
 				D25E4AFD203E7E9500EB263B /* UIVewControllerExt.swift in Sources */,
+				D25E4B05203E971600EB263B /* FinishGoalVC.swift in Sources */,
 				D25E4AFF203E832600EB263B /* UIViewExt.swift in Sources */,
 				D234EB68203D2F41004DEA85 /* GoalVC.swift in Sources */,
 				D234EB6E203D2F41004DEA85 /* yourgoal_app.xcdatamodeld in Sources */,
